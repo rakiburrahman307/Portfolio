@@ -24,7 +24,7 @@ const Home = () => {
             </Link>
 
             <a
-              href="../../../public/19203203037.pdf"
+              href="/19203203037.pdf"
               download='true'
               target="_blank"
               rel="noopener noreferrer"

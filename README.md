@@ -31,9 +31,9 @@ Hello there! I'm Rakibur Rahman, a passionate Junior Web Developer on a mission 
 
 Explore some of my projects:
 
-1. [Project 1](#) - Description and live link.
-2. [Project 2](#) - Description and live link.
-3. [Project 3](#) - Description and live link.
+1. [Project 1](https://6533dbc842df062c581574d2--cool-gecko-ec8121.netlify.app/) - See the Live on my Project.
+2. [Project 2](https://relaxed-puffpuff-31caad.netlify.app/) - See the Live on my Project.
+3. [Project 3](https://curious-starburst-d1ee83.netlify.app/) - See the Live on my Project
 
 ## Experiences
 
